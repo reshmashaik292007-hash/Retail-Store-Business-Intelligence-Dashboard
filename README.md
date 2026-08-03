@@ -72,6 +72,11 @@ streamlit run app.py
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png) 
+
+
 ## 📊 Dashboard Highlights
 
 The dashboard includes:
